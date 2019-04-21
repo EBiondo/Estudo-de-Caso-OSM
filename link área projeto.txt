@@ -1,0 +1,10 @@
+Link: https://www.openstreetmap.org/#map=12/-26.8774/-49.2030
+
+Limites: <bounds minlat="-26.9368000" minlon="-49.2998000" maxlat="-26.8149000" maxlon="-49.0203000"/>
+
+Descrição da área: A área escolhida abrange o território dos municípios de Blumenau, Gaspar, Timbó e Indaial,
+no estado de Santa Catarina - Brasil.
+Justifica-se a escolha desta área por ser uma área com a qual tenho certa familiriadade em razão de residir na
+região, de modo que será viável a análise dos dados com mais propriedade, bem como a extração de dados e
+informações aproveitando-se desta facilidade.
+
